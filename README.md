@@ -1,5 +1,7 @@
 # Grid-based-FastSLAM
 
+![](GIF/Grid_based_FastSLAM.gif)
+
 ## Setting up the enviroment:
 For this project the following set up was used:
 - Ubuntu 16.04 LTS OS
@@ -65,3 +67,7 @@ Save a map of the environment and share it with your classmates
 
 $ cd /home/workspace/
 $ rosrun map_server map_saver -f myMap
+
+## Project Outcome
+For more details of the project please refer to the following video:
+[Grid-based-FastSLAM](https://www.youtube.com/watch?v=wQObO2OXsk8)
